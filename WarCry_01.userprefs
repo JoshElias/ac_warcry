@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\IForms\DactylForm.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterController.cs" Line="59" Column="1" />
+      <File FileName="Assets\Scripts\Player\IStates\RunningState.cs" Line="6" Column="21" />
+      <File FileName="Assets\Scripts\Player\IForms\DactylForm.cs" Line="4" Column="27" />
+      <File FileName="Assets\Scripts\Player\IForms\IForm.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
